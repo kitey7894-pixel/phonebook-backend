@@ -2,7 +2,12 @@
 
 Backend do phonebook (exercícios 3.1–3.22).
 
-**App online:** _(URL do deploy entra aqui depois do exercício 3.10)_
+**App online:** https://phonebook-backend-w8rv.onrender.com
+
+- API: https://phonebook-backend-w8rv.onrender.com/api/persons
+- Info: https://phonebook-backend-w8rv.onrender.com/info
+
+Obs.: instância free do Render hiberna com inatividade — a primeira requisição pode demorar ~50s.
 
 ## Rodando local
 
